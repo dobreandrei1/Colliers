@@ -1,0 +1,90 @@
+0,null,CLUJ,Strada,CLABUCET,null,3.0,64.75,null,null,null,null,0.0,0.0
+0,null,BRASOV,Strada,DEDA; BL 35; SC A,null,2.0,48.0,null,null,null,null,0.0,0.0
+0,null,ILFOV,Strada,SMARALDULUI BL. 4,Strada,0.0,53.0,null,null,null,null,0.0,0.0
+0,null,VRANCEA,Strada,PIATA LIBERTATII,null,3.0,61.81,null,null,null,null,0.0,0.0
+0,null,null,Strada,Iriceanu,null,0.0,46.89,null,null,null,null,0.0,0.0
+0,null,Cluj,Strada,Snagov,null,0.0,47.0,null,null,null,null,0.0,0.0
+0,null,Maramures,Bulevard,Bd Decebal,null,0.0,48.0,PARTER,null,null,null,0.0,0.0
+0,null,null,Strada,Lotrioara,null,2.0,35.8,null,null,null,null,0.0,0.0
+0,null,BUCURESTI,Strada,BLD IULIU MANIU/BL 15 A+B/SC B,18-20,3.0,78.0,null,null,null,null,0.0,0.0
+0,null,BRAILA,Bulevard,DOROBANTILOR BL. B10,null,2.0,57.24,null,null,null,null,0.0,0.0
+0,null,VALCEA,Strada,MIHAI EMINESCU,null,0.0,57.0,null,null,null,null,0.0,0.0
+0,null,SECTORUL 4,Strada,IZVORUL CRISULUI,null,3.0,60.31,null,semidecomandat,null,Standard ( gresie; faianta; termopan; parchet laminat),0.0,0.0
+0,null,BUCUERSTI,Strada,DEZROBIRII/BL O8/SC 2,null,3.0,80.0,null,null,null,null,0.0,0.0
+0,null,BUCURESTI,Strada,NICOLAE COSTINESCU,null,3.0,127.18,parter,null,null,null,0.0,0.0
+0,null,Prahova,Strada,Vornicei,null,3.0,63.97,null,null,null,null,0.0,0.0
+0,null,BUCURESTI,Strada,Sosea Pantelimon,null,1.0,1974.0,null,null,null,null,0.0,0.0
+0,null,ARGES,Strada,STR. RAZBOIENI/ARGEDAVA/BL A3 / SC.A,Strada,1.0,4.02,null,null,null,null,0.0,0.0
+0,null,Brasov,Strada,I. L. Caragiale,null,0.0,94.0,null,null,null,null,0.0,0.0
+0,null,dolj,Strada,C-TIN ARGETOIANU;BLOC BB',null,63.03,1980.0,3 camere,null,null,null,0.0,0.0
+0,null,BUZA,Piata,PIATA DACIEI/BL3C,null,0.0,78.4,null,null,null,null,0.0,0.0
+0,null,BUCURESTI,Bulevard,BLD GRAL GHE MAGHERU,null,1.0,3.8,null,null,null,null,0.0,0.0
+0,null,BUCURESTI,Cale,CAL VITAN,Cale,2.0,55.0,null,null,null,null,0.0,0.0
+0,null,HUNEDOARA,Strada,INDEPENDENTEI,Strada,2.0,45.0,null,null,null,null,0.0,0.0
+0,null,null,Alee,ALE DEALUL MACINULUI/BL D39/SC E,Alee,1.0,32.0,null,null,null,null,0.0,0.0
+0,null,NAVODARI,Strada,ALBINELOR/BL 32EST/SC C,Strada,3.0,53.89,null,null,null,null,0.0,0.0
+0,null,SECTOR 2,Alee,DINU VINTILA; BL 2; SC F,6B,3.0,113.84,null,null,null,null,0.0,0.0
+0,null,SECTOR 3,Strada,LABORATORULUI,null,3.0,67.12,null,null,null,null,0.0,0.0
+0,null,TIMIS,Strada,POIANA RUSCAI,null,2.0,38.47,null,null,null,null,0.0,0.0
+0,null,BIHOR,Bulevard,STEFAN CEL MARE,null,3.0,63.0,null,null,null,null,0.0,0.0
+0,null,CONSTANTA,Bulevard,MAMAIA,null,0.0,90.3,null,null,null,null,0.0,0.0
+0,null,ILFOV,Strada,OITUZ,null,1.0,35.0,null,null,null,null,0.0,0.0
+0,null,ILFOV,Strada,DRUMUL JILAVEI,113B,3.0,71.7,null,null,null,null,0.0,0.0
+0,null,SIBIU,Strada,VRANCEI,null,2.0,61.83,null,null,null,null,0.0,0.0
+0,null,BUCURESTI,Bulevard,BL ALEXANDRU OBREGIA/ BL.R10/ SC.1,null,1.0,3.18,null,null,null,null,0.0,0.0
+0,null,SECTOR 3,Alee,ALEEA MIZIL,null,3.0,69.83,null,null,null,null,0.0,0.0
+0,null,SECTOR 4,Bulevard,CONSTANTIN BRANCOVEANU,null,0.0,77.61,null,null,null,null,0.0,0.0
+0,null,null,Strada,Veteranilor,null,1.0,2.43,null,null,null,null,0.0,0.0
+0,null,BUCURESTI,Strada,LAVANDEI/BL P33/SC 1,null,2.0,50.71,null,null,null,null,0.0,0.0
+0,null,CONSTANTA,Strada,NUFARULUI,Strada,0.0,42.19,null,null,null,null,0.0,0.0
+0,null,SALAJ,Strada,PARAULUI,Strada,1.0,40.0,null,null,null,null,0.0,0.0
+0,null,SECTOR 6,Bulevard,BLD. UNIRII; BL. F3; SC. 3,null,1.0,45.74,null,null,null,null,0.0,0.0
+0,null,CONSTANTA,Strada,PESCARUSULUI,null,0.0,50.0,null,null,null,null,0.0,0.0
+0,null,CLUJ,Piata,PIATA CIPARIU; SC 1,null,0.0,58.59,null,null,null,null,0.0,0.0
+0,null,null,Strada,VERONICA MICLE,null,0.0,38.0,null,null,null,null,0.0,0.0
+0,null,BRASOV,Strada,AVRAM IANCU SC. A,48A,3.0,84.6,null,null,null,null,0.0,0.0
+0,null,null,Strada,Strada Pietei,null,0.0,100.84,null,null,null,null,0.0,0.0
+0,null,Cluj,Strada,str Eroilor,null,0.0,51.0,null,null,null,null,0.0,0.0
+0,null,TELEORMAN,Strada,DUNARII,null,1.0,4.0,null,null,null,null,0.0,0.0
+0,null,Buzau,Strada,ION BAIESU; BL G; SC A,Strada,2.0,46.0,null,null,null,null,0.0,0.0
+0,null,null,Strada,TACHE GHEORGHE,null,3.0,58.0,null,null,null,null,0.0,0.0
+0,null,null,Strada,BABA NOVAC,8A,2.0,58.0,null,null,null,null,0.0,0.0
+0,null,CALARASI,Strada,BELSUGULUI,null,2.0,47.0,null,null,null,null,0.0,0.0
+0,null,SIBIU,Strada,ANA IPATESCU,null,3.0,90.0,null,null,null,null,0.0,0.0
+0,null,Bistrita-Nasaud,Strada,Trandafirilor,null,3.0,101.02,null,null,null,null,0.0,0.0
+0,null,SECTOR 2,Strada,TUDOR ARGHEZI,null,2.0,119.58,P,null,null,null,0.0,0.0
+0,null,SECTOR 1,Bulevard,BLD. ION MIHALACHE,18B,3.0,110.66,null,null,null,null,0.0,0.0
+0,null,HUNEDOARA,Strada,LILIACULUI,null,0.0,76.0,null,decomandat,null,Standard ( gresie; faianta; termopan; parchet laminat),0.0,0.0
+0,null,BACAU,Alee,Alee Metalurgiei,null,2.0,52.0,null,null,null,null,0.0,0.0
+0,null,DOLJ,Strada,AUREL VLAICU,null,1.0,36.75,null,null,null,null,0.0,0.0
+0,null,Prahova,Strada,cameliei,8B,0.0,46.62,null,null,null,null,0.0,0.0
+0,null,SECTOR 1,Strada,CONSTANTIN ARICESCU,null,3.0,125.0,null,null,null,null,0.0,0.0
+0,null,SECTOR 1,Strada,CONSTANTIN ARICESCU,null,3.0,144.0,null,null,null,null,0.0,0.0
+0,null,CONSTANTA,Strada,BABA NOVAC,null,1.0,27.0,null,null,null,null,0.0,0.0
+0,null,SECTOR 1,Strada,ING ZABLOVSCHI,null,5.0,197.57,null,null,null,null,0.0,0.0
+0,null,null,Strada,DANUBIU,null,1.0,30.0,null,null,null,null,0.0,0.0
+0,null,null,Strada,DORNEASCA,null,3.0,72.0,null,null,null,null,0.0,0.0
+0,null,CONSTANTA,Strada,CRIZANTEMELOR,-,0.0,50.0,PART,null,null,null,0.0,0.0
+0,null,BRAILA,Cale,CALEA GALATI,null,1.0,29.13,null,null,null,null,0.0,0.0
+0,null,TIMIS,Strada,SALCAMILOR,null,3.0,66.0,null,null,null,null,0.0,0.0
+0,null,TIMIS,Strada,MARTIR CLAUDIU VARCUS,null,0.0,52.0,null,null,null,null,0.0,0.0
+0,null,null,Strada,VASILE LASCAR,null,7.0,127.0,null,null,null,null,0.0,0.0
+0,null,CONSTANTA,Bulevard,ALEXANDRU LAPUSNEANU,null,0.0,55.33,null,null,null,null,0.0,0.0
+0,null,IALOMITA,Bulevard,MATEI BASARAB,-,3.0,64.48,null,null,null,null,0.0,0.0
+0,null,TULCEA,Strada,SPITALULUI,null,3.0,69.0,null,null,null,null,0.0,0.0
+0,null,null,Strada,IMPARATUL TRAIAN,null,3.0,72.48,null,null,null,null,0.0,0.0
+0,null,null,Bulevard,DECEBAL,null,3.0,79.0,null,null,null,null,0.0,0.0
+0,null,BIHOR,Strada,NICOLAE BALCESCU,null,3.0,64.0,null,null,null,null,0.0,0.0
+0,null,OLT,Strada,LALELELOR,null,0.0,51.0,null,null,null,null,0.0,0.0
+0,null,CLUJ,Strada,DOROBANTILOR,null,1.0,36.06,null,null,null,null,0.0,0.0
+0,null,SUCEAVA,Strada,VICTORIEI bl E12 sc B,null,3.0,60.0,P,null,null,null,0.0,0.0
+0,null,PRAHOVA,Strada,GHEORGHE GRIGORE CANTACUZINO,null,2.0,46.0,null,null,null,null,0.0,0.0
+0,null,PRAHOVA,Strada,GENERAL VASILE MILEA,null,2.0,44.0,VI,null,null,null,0.0,0.0
+0,null,DOLJ,Strada,CONSTANTIN ARGETOIANU,null,2.0,47.0,null,null,null,null,0.0,0.0
+0,null,ILFOV,Strada,FERME F,T1,3.0,86.03,-,null,null,null,0.0,0.0
+0,null,null,Alee,TIMISUL DE JOS,null,3.0,60.35,null,null,null,null,0.0,0.0
+0,null,BRAILA,Strada,DOROBANTILOR,313BIS,3.0,92.0,null,null,null,null,0.0,0.0
+0,null,CONSTANTA,Strada,DIONISIE CEL MIC,null,3.0,58.0,PART,null,null,null,0.0,0.0
+0,null,ILFOV,Strada,DRUMUL FERMEI,null,3.0,74.0,-,null,null,null,0.0,0.0
+0,null,ILFOV,Strada,ECLIPSEI,null,2.0,36.77,parter,null,null,null,0.0,0.0
+0,null,ARGES,Strada,MATEI BASARAB,null,3.0,64.0,null,null,null,null,0.0,0.0
